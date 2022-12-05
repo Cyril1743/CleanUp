@@ -1,5 +1,5 @@
 # Description
-This is a website for Horsean
+This is a website for Horiseon
 # What was the motivation?
 The motivation behind this project was to learn why alt tag were important for people who use screen readers
 # Why did I complete it?
