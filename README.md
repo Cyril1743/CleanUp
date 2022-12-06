@@ -9,4 +9,4 @@ I solve some problems relating to missing alt tags from images. The website shou
 # What did I learn?
 I learned the importance of creating web pages with alt tags and their effect on screenreaders. I also learned how to link `<a>` tags to elements and not only to other links. I learned how to add a title to a page.
 # Screenshot
-./assest/images/a80dce3c58bacac060c1c65c34b607a8
+![Screenshot](screenshot.jpeg)
